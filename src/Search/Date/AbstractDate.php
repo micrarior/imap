@@ -15,7 +15,7 @@ abstract class AbstractDate extends AbstractCondition
      *
      * @var string
      */
-    const DATE_FORMAT = 'Y-m-d';
+    const DATE_FORMAT = 'd-M-Y';
 
     /**
      * The date to be used for the condition.
